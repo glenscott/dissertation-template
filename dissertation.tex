@@ -1,0 +1,71 @@
+%
+% M801 Dissertation Template
+% By Glen Scott <gs3678@student.open.ac.uk>
+%
+
+
+\ifx\pdfoutput\undefined % If you are running latex then:
+\documentclass[a4paper,11pt]{report}
+% put here packages only for the DVI:
+\usepackage[dvips]{graphicx}
+
+\else % else, you are running pdflatex:
+\documentclass[pdftex,a4paper,11pt]{report}
+%put here packages only for the PDF:
+\usepackage[pdftex]{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,.mps}
+\usepackage{hyperref}
+
+\fi
+
+% put all other packages here:
+
+\usepackage{mystyle}
+
+\begin{document}
+
+\pagenumbering{alph}
+\input{./tex/title.tex}
+
+\pagenumbering{roman}
+\setcounter{page}{1}
+\input{./tex/preface.tex}
+
+\renewcommand*\contentsname{Table of Contents}
+\tableofcontents
+\newpage
+
+\listoffigures
+\newpage
+
+\listoftables
+\newpage
+
+\input{./tex/abstract.tex}
+
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\input{./tex/introduction.tex}
+
+\input{./tex/literature-review.tex}
+
+\input{./tex/research-methods.tex}
+
+\input{./tex/data-collection.tex}
+
+\input{./tex/results.tex}
+
+\input{./tex/conclusions.tex}
+
+\input{./tex/references.tex}
+
+%\input{./tex/bibliography.tex}
+
+\input{./tex/index.tex}
+ 
+\input{./tex/appendix-a.tex}
+
+\input{./tex/appendix-b.tex}
+
+\end{document}

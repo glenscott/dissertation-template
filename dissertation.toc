@@ -1,0 +1,33 @@
+\contentsline {section}{Preface}{i}{section*.1}
+\contentsline {section}{List of Figures}{iv}{section*.4}
+\contentsline {section}{List of Tables}{v}{section*.6}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background to the research}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Aims and objectives of the research project}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Overview of the dissertation}{1}{section.1.3}
+\contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Sections}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Subsection}{3}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Research question}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Summary}{4}{section.2.3}
+\contentsline {chapter}{\numberline {3}Research Methods}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Research Techniques}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Presenting Figures}{5}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Presenting Tables}{6}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Presenting Bulleted Lists}{6}{subsection.3.1.3}
+\contentsline {chapter}{\numberline {4}Data Collection}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Process and Data Sources}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Preliminary Analysis}{7}{section.4.2}
+\contentsline {chapter}{\numberline {5}Results}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}Implementation based results}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}Empirical investigations}{8}{section.5.2}
+\contentsline {section}{\numberline {5.3}Presenting results}{9}{section.5.3}
+\contentsline {section}{\numberline {5.4}Validation}{9}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Analysis}{10}{subsection.5.4.1}
+\contentsline {chapter}{\numberline {6}Conclusions}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}Project review}{13}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future research}{13}{section.6.2}
+\contentsline {section}{References}{14}{section*.9}
+\contentsline {section}{Index}{15}{section*.11}
+\contentsline {section}{Appendix A}{16}{section*.12}
+\contentsline {section}{Appendix B}{16}{section*.13}

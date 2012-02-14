@@ -1,0 +1,549 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.10.21)  21 FEB 2010 19:56
+entering extended mode
+\write18 enabled.
+ %&-line parsing enabled.
+**dissertation.tex
+(./dissertation.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, r
+omanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turki
+sh, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2008/09/08 v0.04l Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/02/22 v6.78p Hypertext links for LaTeX
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2008/09/08 v1.4 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2008/09/08 xcolor patch
+))
+\@linkdim=\dimen105
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/02/22 v6.78p Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2007/10/18 v3.0 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2935.
+Package hyperref Info: Link nesting OFF on input line 2940.
+Package hyperref Info: Hyper index ON on input line 2943.
+Package hyperref Info: Plain pages OFF on input line 2950.
+Package hyperref Info: Backreferencing OFF on input line 2955.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3145.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3382.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2007/12/12 v0.3 LuaTeX support for pdfTeX utility functions
+ (HO)
+Package pdftexcmds Info: LuaTeX not detected on input line 139.
+)))
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2007/09/29 v1.3 Key value parser with default handler suppor
+t (HO)
+)
+\Fld@menulength=\count91
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+\Field@toks=\toks15
+Package hyperref Info: Hyper figures OFF on input line 4299.
+Package hyperref Info: Link nesting OFF on input line 4304.
+Package hyperref Info: Hyper index ON on input line 4307.
+Package hyperref Info: backreferencing OFF on input line 4314.
+Package hyperref Info: Link coloring OFF on input line 4319.
+Package hyperref Info: Link coloring with OCG OFF on input line 4324.
+Package hyperref Info: PDF/A mode OFF on input line 4329.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+*hyperref using driver hpdftex*
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+)
+(./mystyle.sty
+Package: mystyle 
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `dissertation.idx'.
+
+
+Writing index file dissertation.idx
+) (/usr/local/texlive/2008/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2003/03/13 v1.5g extra ToC listings
+
+
+Package tocbibind Note: The document has chapter divisions.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (./dissertation.aux
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28  {s
+        ection}{\numberline {2.2}Research question}{4}{section.2.2}}
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.28  {s
+        ection}{\numberline {2.2}Research question}{4}{section.2.2}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 3758 strings out of 493876
+ 55564 string characters out of 1150567
+ 124113 words of memory out of 3000000
+ 7024 multiletter control sequences out of 10000+50000
+ 3940 words of font info for 15 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 36i,0n,21p,236b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
+unt97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen109
+\MPnumerator=\count100
+\everyMPtoPDFconversion=\toks17
+)
+Package hyperref Info: Link coloring OFF on input line 25.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count101
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+
+(./dissertation.out) (./dissertation.out)
+\@outlinefile=\write4
+\openout4 = `dissertation.out'.
+
+\AtBeginShipoutBox=\box27
+ (./tex/title.tex
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [1
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./tex
+/preface.tex)
+[1] (./dissertation.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+ [2
+
+])
+\tf@toc=\write5
+\openout5 = `dissertation.toc'.
+
+ [3] (./dissertation.lof)
+\tf@lof=\write6
+\openout6 = `dissertation.lof'.
+
+ [4] (./dissertation.lot)
+\tf@lot=\write7
+\openout7 = `dissertation.lot'.
+
+
+[5] (./tex/abstract.tex) [6] (./tex/introduction.tex
+Chapter 1.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+) [1
+
+
+] (./tex/literature-review.tex [2]
+Chapter 2.
+[3
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+) (./tex/research-methods.tex [4]
+Chapter 3.
+
+</Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram1.png, id=
+240, 280.04625pt x 100.375pt>
+File: /Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram1.png
+ Graphic file (type png)
+
+<use /Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram1.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 20--20
+[]\OT1/cmr/m/n/10.95 Instructional Pref-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\OT1/cmr/m/n/10.95 Cognition-centred
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 ter-nal cog-ni-tive ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\OT1/cmr/m/n/10.95 Extrapolates from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 ing a cog-ni-tion
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 per-spec-tive to pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 dict pref-er-ence in
+ []
+
+
+Overfull \hbox (97.72034pt too wide) in paragraph at lines 18--23
+[][] 
+ []
+
+[5
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
+)
+(./tex/data-collection.tex [6 </Users/glenscott/Documents/OU/M801/dissertation-
+template/img/diagram1.png (PNG copy)>]
+Chapter 4.
+) (./tex/results.tex [7
+
+]
+Chapter 5.
+[8
+
+]
+</Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram2.png, id=
+259, 198.7425pt x 192.72pt>
+File: /Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram2.png
+ Graphic file (type png)
+
+<use /Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram2.png>
+
+Underfull \hbox (badness 4254) in paragraph at lines 34--35
+\OT1/cmr/m/n/10.95 (Fre-gian) such
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10.95 Computer lan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10.95 Referentially
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 45--46
+\OT1/cmr/m/n/10.95 links to other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+\OT1/cmr/m/n/10.95 rep-re-sen-ta-
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 51--52
+[]\OT1/cmr/m/n/10.95 Digital or dis-
+ []
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 51--52
+\OT1/cmr/m/n/10.95 crete (as op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/10.95 Referentially
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 not have links
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (17.81105pt too wide) in paragraph at lines 63--63
+[]\OT1/cmr/m/n/10.95 Approach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+[]\OT1/cmr/m/n/10.95 Student
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+\OT1/cmr/m/n/10.95 and Aca-
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/10.95 Information that re-veals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/cmr/m/n/10.95 per-spec-tives and pref-er-
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 68--69
+\OT1/cmr/m/n/10.95 more im-plicit knowl-edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/cmr/m/n/10.95 about these pref-er-ences
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+[]\OT1/cmr/m/n/10.95 Student
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+\OT1/cmr/m/n/10.95 and Aca-
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 2165) in paragraph at lines 75--75
+[]\OT1/cmr/m/n/10.95 What are the in-di-vid-ual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\OT1/cmr/m/n/10.95 back-ground fac-tors that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+[]\OT1/cmr/m/n/10.95 Student
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+\OT1/cmr/m/n/10.95 and Aca-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 78--79
+\OT1/cmr/m/n/10.95 for-ma-tion about learn-ers
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 78--79
+\OT1/cmr/m/n/10.95 gen-der, prior ex-pe-ri-ence,
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 80--81
+\OT1/cmr/m/n/10.95 that re-veal any im-prove-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 82--83
+\OT1/cmr/m/n/10.95 struc-tional ma-te-ri-als that
+ []
+
+
+Overfull \hbox (35.12393pt too wide) in paragraph at lines 61--85
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [9 </Users/glenscott/Documents/OU/M801/dissertation-template/img/diagram2.png
+ (PNG copy)>] (./tex/conclusions.tex [10] [11] [12]
+Chapter 6.
+) (./tex/references.tex [13
+
+] (./dissertation.bbl)) (./tex/index.tex
+(./dissertation.ind [14] [15
+
+
+])) (./tex/appendix-a.tex) (./tex/appendix-b.tex)
+[16
+
+] (./dissertation.aux) ) 
+Here is how much of TeX's memory you used:
+ 4417 strings out of 493876
+ 65140 string characters out of 1150567
+ 136122 words of memory out of 3000000
+ 7523 multiletter control sequences out of 10000+50000
+ 10367 words of font info for 36 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 36i,10n,36p,630b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
+/cm/cmbx10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx1
+2.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></us
+r/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/tex
+live/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/t
+exmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/f
+onts/type1/bluesky/cm/cmsy10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type
+1/bluesky/cm/cmti10.pfb>
+Output written on dissertation.pdf (23 pages, 122627 bytes).
+PDF statistics:
+ 343 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 131072)
+ 287 words of extra memory for PDF output out of 10000 (max. 10000000)
+
